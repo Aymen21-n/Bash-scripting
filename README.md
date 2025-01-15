@@ -1,5 +1,3 @@
-# makefile
-
 README.md: guessinggame.sh
 	echo "# Guessing Game Project" > README.md
 	echo "\n## Description" >> README.md
